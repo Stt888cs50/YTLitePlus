@@ -11,7 +11,7 @@ on:
         default: "17.5"
         required: true
         type: string
-      decrypted_youtube_url:
+      decrypted_youtube_url:https://litter.catbox.moe/qny18p.ipa
         description: "Direct URL of the decrypted YouTube ipa"
         default: ""
         required: true
